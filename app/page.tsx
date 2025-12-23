@@ -1,5 +1,4 @@
-Add Ethereal Echo main app page
-"use client";
+usee clientt";
 
 import React, { useMemo, useState } from "react";
 
